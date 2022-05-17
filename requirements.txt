@@ -1,8 +1,11 @@
 numpy==1.22.3
 torch==1.9.0
 tqdm==4.48.0
-ranger==0.1.dev0
+pytorch-ranger==0.1.dev0
 seaborn==0.11.1
 pandas==1.1.0
 sklearn==0.0
 matplotlib==3.4.3
+PyYAML==5.3.1
+tensorboard==2.5.0
+
