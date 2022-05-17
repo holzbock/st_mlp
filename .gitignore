@@ -1,0 +1,12 @@
+# Files
+*.pt
+act_and_drive/coarse_labels.pkl
+act_and_drive/fine_labels.pkl
+act_and_drive/skeletons.pkl
+
+# Folders
+runs/
+__pycache__/
+tcg/tcg_dataset_2/
+act_and_drive/activities_3s/
+act_and_drive/openpose_3d/
