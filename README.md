@@ -83,10 +83,14 @@ python3 test.py --data ./runs/exp_?
 If you use stMLP in your work or refer to our results in your paper, please cite the following work:
 
 ```latex
-@article{holzbock2022spatio,
-  title={A Spatio-Temporal Multilayer Perceptron for Gesture Recognition},
+@INPROCEEDINGS{9827054,
   author={Holzbock, Adrian and Tsaregorodtsev, Alexander and Dawoud, Youssef and Dietmayer, Klaus and Belagiannis, Vasileios},
-  journal={arXiv preprint arXiv:2204.11511},
-  year={2022}
+  booktitle={2022 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={A Spatio-Temporal Multilayer Perceptron for Gesture Recognition}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1099-1106},
+  doi={10.1109/IV51971.2022.9827054}
 }
 ```
