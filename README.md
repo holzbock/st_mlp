@@ -1,7 +1,7 @@
 # A Spatio-Temporal Multilayer Perceptron for Gesture Recognition
 
 
-**[Traffic Control Gesture Recognition for Autonomous Vehicles](https://arxiv.org/abs/2204.11511#)**<br />
+**[A Spatio-Temporal Multilayer Perceptron for Gesture Recognition](https://arxiv.org/abs/2204.11511#)**<br />
 This is the official project page of our paper.<br />
 Adrian Holzbock*, Alexander Tsaregorodtsev*, Youssef Dawoud, Klaus Dietmayer, Vasileios Belagiannis<br />
 Accepted at the 33rd IEEE Intelligent Vehicles Symposium (IV22), June 5th - 9th 2022, Aachen, Germany<br />
